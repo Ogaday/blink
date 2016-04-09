@@ -18,5 +18,5 @@ I also want to use it as a personal experiment in software development.
 ## Solutions
 
 - **Language**: Would be nice to use Python as I am a) already familiar with Python b) it is cross platform, to some extent.
-- **System notifications**: wxPython, TKinter, Python Global Object introspection, freedesktop.org, dbus, notify, notify2, libnotify, notify send, pgi (pure python GObject Introspection bindings)
+- **System notifications**: wxPython, TKinter, Python Global Object introspection, freedesktop.org, dbus, notify, notify2, libnotify, notify send, pgi (pure python GObject Introspection bindings). http://blog.z3bra.org/2014/04/pop-it-up.html
 - **Distribution**: http://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/ https://wiki.python.org/moin/DistributionUtilities https://github.com/pyinstaller/pyinstaller
